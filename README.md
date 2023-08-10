@@ -85,3 +85,4 @@ included as part of the course. In the future, we plan on developing an
 AI-based Maze solving robot using the programming knowledge we have 
 acquired. Thanks to TEXAS INSTRUMENTS. 
 
+To know more about the project details, ping me personally.
