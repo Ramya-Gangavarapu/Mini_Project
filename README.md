@@ -1,8 +1,8 @@
-# Mini_Project
+## Mini_Project
 
 # MAZE SOLVING ROBOT WITH ML
 
-# TEAM MEMBERS
+## TEAM MEMBERS
 G. Ramya
 
 B. Prabhakar
@@ -73,3 +73,20 @@ An exploration of path planning and navigation in a
 known or unknown environment in order to find the 
 collision-free path from a given location to a given goal 
 position.
+
+# CONCLUSION
+
+In this work, experiential modules are used to demonstrate the utility of 
+Texas Instruments Robotic System Learning Kit (TI RSLK) for maze 
+design. There is no need for microcontroller programming knowledge to use 
+the experiential modules. Students are expected to be more motivated and 
+able to cope with this math-intensive course if these experiential modules are 
+included as part of the course. In the future, we plan on developing an 
+AI-based Maze solving robot using the programming knowledge we have 
+acquired. Thanks to TEXAS INSTRUMENTS. 
+
+6. S.-Y. Jiang, C.-Y. Lin, K.-T. Huang, and K.-T. Song, ‘‘Shared control design of a walking-assistant 
+robot,’’ IEEE Trans. Control Syst. Technol., vol. 25, no. 6, pp. 2143–2150, Jan. 2017.
+7. A.-T. Nguyen, C. Sentouh, and J.-C. Popieul, ‘‘Driver-automation cooperative approach for 
+shared steering control under multiple system constraints: Design and experiments,’’ IEEE 
+Trans. Ind. Electron., vol. 64, no. 5,pp. 3819–3830, May 2017.
